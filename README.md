@@ -5,7 +5,7 @@
 
 ### Música
 Todos los temas musicales del directorio "Music" están bajo la licencia libre [CC-BY-SA-4.0][cc-by-sa].
-Resumidamente, <b>puedes usarlos para lo que quieras</b>, siempre y cuando menciones que <b>son de mi autoría</b> y los <b>compartas con la misma licencia</b> (más detalles en el directorio).
+Resumidamente, <b>puedes usarlos para lo que quieras</b>, siempre y cuando menciones (de forma minimalista basta) que <b>son de mi autoría</b> y los <b>compartas con la misma licencia</b> (más detalles en el directorio).
 
 ### Efectos de sonido
 Todos los efectos de sonido que están en el directorio "FXS" están bajo la licencia libre [CC0-1.0][cc0] y <b>puedes utilizarlos</b> para el tipo de fin que quieras <b>sin necesidad de darme crédito</b> alguno (aunque siempre se agradece ;-) ).
@@ -29,15 +29,13 @@ Todos los efectos de sonido que están en el directorio "FXS" están bajo la lic
 
 - [Geonkick](https://geonkick.org/): Otro sintetizador que utilizo, que está especialmente dedicado a los instrumentos percusivos. 
 
-- [ZynAddSubFx](https://zynaddsubfx.sourceforge.io/): Es tanto un conjunto de sintetizadores como una colección de plugins de sonido (reverb, echo, flanger, etc).
+- [ZynAddSubFx](https://zynaddsubfx.sourceforge.io/): Es tanto un conjunto de sintetizadores muy versátil como una colección de plugins de sonido (reverb, echo, flanger, etc).
 
 - [guitarix](https://guitarix.org/): Una colleción de plugins pensados para usar como efectos de sonido de guitarra.
 
 - [x42-plugins](https://github.com/x42/x42-plugins): Un conjunto de plugins lv2 de propósito general (efectos de sonido, análisis, etc).
 
-- [sforzando](https://www.plogue.com/products/sforzando.html):
-
-- [sfizz](https://github.com/sfztools/sfizz):
+- [sfizz](https://github.com/sfztools/sfizz): Un plugin que permite utilizar instrumentos en formato [sfz](https://sfzformat.com/) (ver siguiente sección).
 
 ### Colecciones de instrumentos (a partir de samples):
 Utilizo instrumentos codificados como [sfz](https://sfzformat.com/) que encuentro con diversas licencias de uso ("libre", siempre asegurandome de usarlas bajo los respectivos términos).
